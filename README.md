@@ -5,13 +5,12 @@ CherishVII 的个人博客
 <h4 align="center">记录精彩的程序人生</h4>
 <p align="center"><a title="CherishVII 的个人博客" target="_blank" href="https://github.com/CherishVII/solo-blog"><img src="https://img.shields.io/github/last-commit/CherishVII/solo-blog.svg?style=flat-square&color=FF9900"></a>
 <a title="GitHub repo size in bytes" target="_blank" href="https://github.com/CherishVII/solo-blog"><img src="https://img.shields.io/github/repo-size/CherishVII/solo-blog.svg?style=flat-square"></a>
-<a title="Solo Version" target="_blank" href="https://github.com/b3log/solo/releases"><img src="https://img.shields.io/badge/solo-3.6.7-f1e05a.svg?style=flat-square&color=blueviolet"></a>
+<a title="Solo Version" target="_blank" href="https://github.com/b3log/solo/releases"><img src="https://img.shields.io/badge/solo-3.6.6-f1e05a.svg?style=flat-square&color=blueviolet"></a>
 <a title="Hits" target="_blank" href="https://github.com/b3log/hits"><img src="https://hits.b3log.org/CherishVII/solo-blog.svg"></a></p>
 
 ### 最新
 
-* [centos7.6下防火墙设置相关命令](http://www.CherishVII.com/articles/2019/11/20/1574251291732.html)
-* [世界，你好！](http://www.CherishVII.com/hello-solo)
+* [世界，你好！](http://cherishvii.com/hello-solo)
 
 
 

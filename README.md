@@ -10,7 +10,12 @@ CherishVII 的个人博客
 
 ### 最新
 
-* [世界，你好！](http://cherishvii.com/hello-solo)
+* [我在 GitHub 上的开源项目](http://cherishvii.com/my-github-repos)
+* [CentOS7.6安装、配置及卸载JDK](http://cherishvii.com/articles/2019/11/21/1574330925040.html)
+* [谷歌云搭建ssr](http://cherishvii.com/articles/2019/11/21/1574330146693.html)
+* [CentOS7.6安装Tomcat](http://cherishvii.com/articles/2019/11/21/1574325958412.html)
+* [CentOS7.6安装MySQL](http://cherishvii.com/articles/2019/11/21/1574325545076.html)
+* [centos7.6下防火墙设置相关命令](http://cherishvii.com/articles/2019/11/21/1574323288199.html)
 
 
 

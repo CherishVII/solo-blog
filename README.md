@@ -10,7 +10,6 @@ CherishVII 的个人博客
 
 ### 最新
 
-* [我在 GitHub 上的开源项目](http://cherishvii.com/my-github-repos)
 * [CentOS7.6安装、配置及卸载JDK](http://cherishvii.com/articles/2019/11/21/1574330925040.html)
 * [谷歌云搭建ssr](http://cherishvii.com/articles/2019/11/21/1574330146693.html)
 * [CentOS7.6安装Tomcat](http://cherishvii.com/articles/2019/11/21/1574325958412.html)
